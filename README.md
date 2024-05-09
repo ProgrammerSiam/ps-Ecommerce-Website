@@ -15,6 +15,27 @@ Create a visually stunning and fully responsive e-commerce platform
       <img src="https://i.ibb.co/Fhc9hC1/okPost.jpg" alt="Project Banner">
     </a>
 
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **Adex** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/adex.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/adex.git
+```
 
 ### Contact
 
