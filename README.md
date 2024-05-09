@@ -1,4 +1,12 @@
+
+
+
 <div align="center">
+  <h2 align="center">Adex - Business Agency Website</h2>
+
+  Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a>
   <br />
     <a href="#" target="_blank">
       <img src="https://i.ibb.co/Fhc9hC1/okPost.jpg" alt="Project Banner">
