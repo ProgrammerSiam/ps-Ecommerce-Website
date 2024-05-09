@@ -34,7 +34,7 @@ If you want to contact with me you can reach me at
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is <strong>free to use</strong>  and does not contains any license.
 
 
 
