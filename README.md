@@ -1,10 +1,10 @@
 
 <div align="center">
-  <h2 align="center">Adex - Business Agency Website</h2>
+  <h2 align="center">Ecommerce-Website</h2>
+Create a visually stunning and fully responsive e-commerce platform 
+   <br />using HTML, CSS, and JavaScript.
 
-  Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://programmersiam.github.io/ps-Ecommerce-Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
