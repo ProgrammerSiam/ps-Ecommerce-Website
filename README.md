@@ -37,14 +37,20 @@ Windows:
 git clone https://github.com/ProgrammerSiam/ps-Ecommerce-Website.git
 ```
 
+<br />
+
+
 ### Contact
 
 If you want to contact with me you can reach me at
 </br>
 -  [Twitter](https://twitter.com/ProgrammerSiam)
--  [Twitter](https://twitter.com/ProgrammerSiam)
--  [Twitter](https://twitter.com/ProgrammerSiam)
--  [Twitter](https://twitter.com/ProgrammerSiam)
+-  [Facebook](https://www.facebook.com/ProgrammerSiam.xyz)
+-  [Linkedin](https://www.linkedin.com/in/programmersiam/)
+-  [Instragram](https://www.instagram.com/programmersiam/)
+
+<br />
+
 
 ### License
 
