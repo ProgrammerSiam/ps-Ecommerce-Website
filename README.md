@@ -23,23 +23,24 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Adex** locally, run this command on your git bash:
+To run **Ecommerce-Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/adex.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Ecommerce-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/adex.git
+git clone https://github.com/ProgrammerSiam/ps-Ecommerce-Website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at
+[Twitter](https://twitter.com/ProgrammerSiam).
 
 ### License
 
